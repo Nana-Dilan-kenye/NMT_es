@@ -74,7 +74,7 @@ Synthesized as controlled test case for attention mechanism comparison without e
 
 2. **Run notebook**:
    ```bash
-   jupyter notebook Challenge_4_Neural_Machine_Translation.ipynb
+   jupyter notebook Neural_Machine_Translation.ipynb
    ```
 
 3. **Execution sequence**:
